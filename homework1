@@ -1,0 +1,4 @@
+with open('log_files/201811123020.log',encoding='utf8')as f:
+for line in f:
+用python计数并打印
+print(line)
